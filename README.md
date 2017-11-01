@@ -10,13 +10,13 @@ Despite from coding, he studies psychology & computer science, practices yoga an
 ## Avatar
 There is a simple avatar (1000x1000) available at [https://github.com/rofrischmann/speaking/blob/master/avatars/avatar.jpg](https://github.com/rofrischmann/speaking/blob/master/avatars/avatar.jpg).
 
-<img width="500px" src="./avatars/avatar.jpg"> sty
+<img width="500px" src="./avatars/avatar.jpg" style="border:10px solid grey">
 
 #### Other resolutions
-* 400x400 [https://github.com/rofrischmann/speaking/blob/master/avatars/avatar_400x400.jpg](https://github.com/rofrischmann/speaking/blob/master/avatars/avatar_400x400.jpg).
-* 600x600 [https://github.com/rofrischmann/speaking/blob/master/avatars/avatar_600x600.jpg](https://github.com/rofrischmann/speaking/blob/master/avatars/avatar_600x600.jpg).
-* 1000x1000 [https://github.com/rofrischmann/speaking/blob/master/avatars/avatar_1000x1000.jpg](https://github.com/rofrischmann/speaking/blob/master/avatars/avatar_1000x1000.jpg).
-* 1200x1200 [https://github.com/rofrischmann/speaking/blob/master/avatars/avatar_1200x1200.jpg](https://github.com/rofrischmann/speaking/blob/master/avatars/avatar_1200x1200.jpg).
+* 400x400: [https://github.com/rofrischmann/speaking/blob/master/avatars/avatar_400x400.jpg](https://github.com/rofrischmann/speaking/blob/master/avatars/avatar_400x400.jpg).
+* 600x600: [https://github.com/rofrischmann/speaking/blob/master/avatars/avatar_600x600.jpg](https://github.com/rofrischmann/speaking/blob/master/avatars/avatar_600x600.jpg).
+* 1000x1000: [https://github.com/rofrischmann/speaking/blob/master/avatars/avatar_1000x1000.jpg](https://github.com/rofrischmann/speaking/blob/master/avatars/avatar_1000x1000.jpg).
+* 1200x1200: [https://github.com/rofrischmann/speaking/blob/master/avatars/avatar_1200x1200.jpg](https://github.com/rofrischmann/speaking/blob/master/avatars/avatar_1200x1200.jpg).
 
 ## Talks
 
