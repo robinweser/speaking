@@ -6,4 +6,4 @@
 https://speakerdeck.com/rofrischmann/css-in-js-the-good-and-bad-parts
 
 ### Recordings
-> Coming soon.
+* [ReactiveConf 2017](https://youtu.be/X9iqnovPGyY?t=1h41m47s)
