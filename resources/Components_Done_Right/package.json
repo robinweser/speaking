@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "next dev"
+  },
+  "dependencies": {
+    "next": "^6.1.2",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.14.2"
+  }
+}

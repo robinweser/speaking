@@ -1,0 +1,62 @@
+{
+  "1": {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins"
+  },
+  "2": {
+    "title": "Wild",
+    "author": "Cheryl Strayed"
+  },
+  "3": {
+    "title": "Twilight",
+    "author": "Stephanie Meyer"
+  },
+  "4": {
+    "title": "Harry Potter",
+    "author": "J.K Rowling"
+  },
+  "5": {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R Tolkien"
+  },
+  "6": {
+    "title": "Uncle Tom's Cabin",
+    "author": "Harriet Beecher Stowe"
+  },
+  "7": {
+    "title": "Oliver Twist",
+    "author": "Charles Dickens"
+  },
+  "8": {
+    "title": "The Very Hungry Caterpillar",
+    "author": "Eric Carle"
+  },
+  "9": {
+    "title": "Dracula",
+    "author": "Bram Stoker"
+  },
+  "10": {
+    "title": "Alice in Wonderland",
+    "author": "Lewis Carroll"
+  },
+  "11": {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes"
+  },
+  "12": {
+    "title": "Moby Dick",
+    "author": "Herman Melville"
+  },
+  "13": {
+    "title": "Hamlet",
+    "author": "William Shakespeare"
+  },
+  "14": {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald"
+  },
+  "15": {
+    "title": "The Odyssey",
+    "author": "Homer"
+  }
+}
