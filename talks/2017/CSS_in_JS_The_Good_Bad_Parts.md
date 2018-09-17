@@ -11,6 +11,7 @@ This talk summarises both the good and the bad parts as well as the opportunitie
 ### Used At
 
 - [**ReactiveConf**](http://reactiveconf.com/2017) (Bratislava), 2017
+- **dm-drogerie markt DevDay** (Karlsruhe), 2017
 
 ### Recordings
 

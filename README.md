@@ -8,9 +8,9 @@ Despite from coding, he studies psychology & computer science and enjoys trail r
 
 ## Avatar
 
-There is a simple avatar (400x400) available at [https://github.com/rofrischmann/speaking/blob/master/avatars/avatar.jpg](https://github.com/rofrischmann/speaking/blob/master/avatars/avatar.jpg).
+There is a simple avatar (1000x1000) available at [https://github.com/rofrischmann/speaking/blob/master/avatars/avatar.jpg](https://github.com/rofrischmann/speaking/blob/master/avatars/avatar.jpg).
 
-<img src="./avatars/avatar.jpg">
+<img width="500px" src="./avatars/avatar.jpg" style="border:10px solid grey">
 
 #### Other resolutions
 
@@ -24,7 +24,8 @@ There is a simple avatar (400x400) available at [https://github.com/rofrischmann
 ### 2017
 
 - [**CSS in JS: The Good & Bad Parts**](talks/2017/CSS_in_JS_The_Good_Bad_Parts.md)
-  - [ReactiveConf](http://reactiveconf.com), Bratislava _(2017)_
+  - [ReactiveConf](http://reactiveconf.com), Bratislava
+  - dm-drogerie markt DevDay, Karlsruhe
 
 ### 2018
 
@@ -34,4 +35,4 @@ There is a simple avatar (400x400) available at [https://github.com/rofrischmann
   - ReactiveMeetups, Prague
   - ReactiveMeetups, Bratislava
 - [**Reusability: Sharing Components with joy**](talks/2018/Reusability_Sharing_Components_With_Joy.md)
-  - [ReactiveConf](http://reactiveconf.com), Prague _(2018)_
+  - [ReactiveConf](http://reactiveconf.com), Prague
