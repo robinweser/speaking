@@ -2,6 +2,7 @@ import React from "react";
 
 import Rating from "./Rating";
 import Loading from "./Loading";
+import Stars from "./Stars";
 
 export default function BookListItem({ id, author, title }) {
   return (
@@ -17,7 +18,15 @@ export default function BookListItem({ id, author, title }) {
     >
       <div style={{ fontSize: 20, fontWeight: "bold" }}>{title}</div>
       <div>{author}</div>
-      <Rating id={id} />
+      <Rating id={id}>
+        {({ rating, isLoading }) => {
+          if (isLoading) {
+            return <Loading size={20} />;
+          }
+        
+          return <Stars count={rating} />;
+        }}
+      </Rating>
     </div>
   );
 }

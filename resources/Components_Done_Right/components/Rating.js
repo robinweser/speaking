@@ -1,7 +1,6 @@
 import { Component } from "react";
 
 import Loading from "./Loading";
-import Stars from "./Stars";
 
 export default class Rating extends Component {
   constructor(props, context) {
@@ -41,10 +40,9 @@ export default class Rating extends Component {
   render() {
     const { rating, isLoading } = this.state;
 
-    if (isLoading) {
-      return <Loading size={20} />;
-    }
-
-    return <Stars count={rating} />;
+    return this.props.children({
+      rating,
+      isLoading
+    })
   }
 }
