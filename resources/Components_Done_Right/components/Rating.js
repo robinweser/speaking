@@ -1,6 +1,7 @@
 import { Component } from "react";
 
 import Loading from "./Loading";
+import Stars from "./Stars";
 
 export default class Rating extends Component {
   constructor(props, context) {
@@ -44,12 +45,6 @@ export default class Rating extends Component {
       return <Loading size={20} />;
     }
 
-    return (
-      <div style={{ flexDirection: "row" }}>
-        {Array.from(Array(rating).keys()).map(i => (
-          <span style={{ color: "orange", fontSize: 18 }}>★</span>
-        ))}
-      </div>
-    );
+    return <Stars count={rating} />;
   }
 }
