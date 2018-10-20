@@ -65,7 +65,7 @@ class RepositoryContainer extends Component {
 
     const { owner } = this.state;
 
-    setTimeout(this.setState.bind(this), 2000, {
+    setTimeout(this.setState.bind(this), 8000, {
       repositories: data[owner],
       isLoading: false
     });
